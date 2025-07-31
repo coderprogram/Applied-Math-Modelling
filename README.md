@@ -1,4 +1,4 @@
-# Mathematical Modeling in Python: Difference Equations
+# Mathematical Modeling in Python
 
 Inspired by Giordano’s *A First Course in Mathematical Modeling*.
 
